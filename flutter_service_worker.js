@@ -8,7 +8,6 @@ const RESOURCES = {
 "assets/FontManifest.json": "2f38919b26e89a2b937ca3a13fcfd5a8",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/lib/game/assets/Galano%2520Grotesque/Rene%2520Bieder%2520-%2520Galano%2520Grotesque.otf": "0db105f867c7eb2e491db586cc26b417",
-"assets/lib/game/assets/logo_dark.png": "ec0546c9fdcff3ed09f255502751d5d4",
 "assets/lib/game/assets/logo_dark_1.png": "dfa1d608bccd587096b7a3ca84cbf6d3",
 "assets/lib/game/assets/logo_dark_2.png": "1e831b311fdb1f1661eec840bff393d5",
 "assets/lib/game/assets/logo_dark_3.png": "2d947d7ccdf87dcb88ea48676bc61b7f",
