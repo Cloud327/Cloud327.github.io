@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "abac1b7f993f2949bb31abaf0d7fff91",
+  "assets/AssetManifest.json": "afb5a15ce8829385b0e286b262baa774",
 "assets/assets/blockPlace.mp3": "8459b2064a06fc4156a6c985599bf64f",
 "assets/assets/hardDrop.wav": "5851fb3a6e94a950876d1bc1804f2973",
 "assets/assets/lineClear.wav": "4df4635ee796e69379f6ea7cb19a20a1",
@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/assets/tromb_logo_magenta_dye.png": "5786ae74d9a957ab10aca0b8122a30ca",
 "assets/FontManifest.json": "2f38919b26e89a2b937ca3a13fcfd5a8",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/lib/game/assets/blockTypeDefs/DefaultBlocks.txt": "2425c11e4fed2da521f7b0aa72420384",
+"assets/lib/game/assets/blockTypeDefs/defaultBlocks.txt": "2425c11e4fed2da521f7b0aa72420384",
 "assets/lib/game/assets/blockTypeDefs/oopsAllTrombBlocks.txt": "ad4fffe4d4efcca9ffd35d6218acfb08",
 "assets/lib/game/assets/Galano%2520Grotesque/Rene%2520Bieder%2520-%2520Galano%2520Grotesque%2520Bold%2520Italic.otf": "58d6d0f239ad68ffea99f6806192525f",
 "assets/lib/game/assets/Galano%2520Grotesque/Rene%2520Bieder%2520-%2520Galano%2520Grotesque%2520Bold.otf": "6d10397a151d83e4407fecd27f76cafb",
@@ -53,9 +53,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "20144819d2cb379ddf7260fcfb3a365d",
-"/": "20144819d2cb379ddf7260fcfb3a365d",
-"main.dart.js": "d7a2c2df41b966739e0d72cbddb0a842",
+"index.html": "a91d8e847213f28fc1c336eb3de3720f",
+"/": "a91d8e847213f28fc1c336eb3de3720f",
+"main.dart.js": "3c0bafd187213f357fbe713babcaaaf4",
 "manifest.json": "0d03a559b264393f0fcbe319a09d124e",
 "version.json": "5e8088e9f864a3bb92ffda25372adca7"
 };

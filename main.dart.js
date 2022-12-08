@@ -79260,9 +79260,9 @@ p=s*0.15
 j.b=r*0.03
 j.a=r*0.04}i=s*0.92
 o=t.p
-n=A.bY(k,A.jQ(B.be,A.a([A.pT(k,A.fx(A.oL(k,A.arN(s*0.2,new A.j6("tromb_logo_magenta_dye.png")),B.aI,!1,k,k,k,k,k,k,k,k,k,k,new A.ajo(a),k,k,k,k,k,k),B.bJ,k,k,k,k),k,k,50,k,50,k),A.pT(k,new A.vc(l.e,new A.ajp(l),k,t.j3),k,k,30,k,s/3,k)],o),B.a_,B.bc),k,k,k,k,k,Math.abs(r/2-i/2.5))
+n=A.bY(k,A.jQ(B.be,A.a([A.pT(k,A.fx(A.oL(k,A.arN(s*0.2,new A.j6("assets/tromb_logo_magenta_dye.png")),B.aI,!1,k,k,k,k,k,k,k,k,k,k,new A.ajo(a),k,k,k,k,k,k),B.bJ,k,k,k,k),k,k,50,k,50,k),A.pT(k,new A.vc(l.e,new A.ajp(l),k,t.j3),k,k,30,k,s/3,k)],o),B.a_,B.bc),k,k,k,k,k,Math.abs(r/2-i/2.5))
 m=A.jQ(B.be,A.a([n,A.bY(B.M,A.i2(A.a([A.dA(A.aw9(g,t.VN),i,i/2)],o),B.ub,B.S),k,k,k,k,k,k)],o),B.a_,B.bc)
-o=A.arr(B.fS,new A.j6("trombtrisbackground.png"))
+o=A.arr(B.fS,new A.j6("assets/trombtrisbackground.png"))
 return A.a7c(A.bY(k,A.asm(B.y,A.JG(!1,!l.f?m:new A.ajs(l,a,n,new A.ajq(j,new A.ajr(j,new A.ajn(j,h)))).$7(j.c,p,"Start New Game",q,B.eh,new A.G(4293605781),a),k,k,k)),k,new A.d4(k,o,k,k,k,k,k,B.a7),k,k,k,k),k,"Trombtris")}}
 A.ajv.prototype={
 $0(){var s,r,q=this.a
