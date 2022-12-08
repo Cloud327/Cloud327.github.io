@@ -79569,8 +79569,8 @@ p=h*0.6
 o=i*0.6}j=t.p
 n=A.bY(B.M,A.i2(A.a([A.dA(A.es(k,l,l,l,A.cY(l,l,B.i,l,l,l,l,l,l,l,l,h*0.07,l,l,B.aT,l,l,!0,l,l,l,l,l,l,l,l),B.dT,l),o,p),A.dA(l,i*0.01,l),this.HH(r,q,"Single Player",s,B.eh,B.na,a,B.Cc),A.dA(l,i*0.015,l),this.HH(r,q,"VS - Multiplayer",s,B.eh,B.na,a,B.H2),A.dA(l,i*0.13,l)],j),B.ub,B.S),l,l,l,l,l,l)
 h=A.asB(l,"Galano Grotesque",l)
-m=A.arr(B.fS,new A.j6("trombtrisbackground.png"))
-return A.a7c(A.bY(l,A.asm(B.y,A.jQ(B.be,A.a([A.pT(l,A.fx(A.oL(l,A.arN(i*0.2,new A.j6("tromb_logo_magenta_dye.png")),B.aI,!1,l,l,l,l,l,l,l,l,l,l,new A.aeL(a),l,l,l,l,l,l),B.bJ,l,l,l,l),l,l,50,l,50,l),n],j),B.a_,B.bc)),l,new A.d4(l,m,l,l,l,l,l,B.a7),l,l,l,l),h,k)},
+m=A.arr(B.fS,new A.j6("assets/trombtrisbackground.png"))
+return A.a7c(A.bY(l,A.asm(B.y,A.jQ(B.be,A.a([A.pT(l,A.fx(A.oL(l,A.arN(i*0.2,new A.j6("assets/tromb_logo_magenta_dye.png")),B.aI,!1,l,l,l,l,l,l,l,l,l,l,new A.aeL(a),l,l,l,l,l,l),B.bJ,l,l,l,l),l,l,50,l,50,l),n],j),B.a_,B.bc)),l,new A.d4(l,m,l,l,l,l,l,B.a7),l,l,l,l),h,k)},
 HH(a,b,c,d,e,f,g,h){var s=null,r=A.GF(5),q=A.a([f,e],t.t_),p=t.h9
 p=A.x4(s,s,new A.bU(e,p),new A.bU(10,t.Ve),s,s,s,s,s,s,s,s,s,s,new A.bU(e,p),s,s,s,s,s,s,s)
 return A.bY(s,A.dA(A.arA(A.es(c,s,s,s,A.cY(s,s,B.i,s,s,s,s,s,s,s,s,d,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.aeN(g,h),p),b,a),s,new A.d4(s,s,s,r,s,new A.mA(B.b1,B.fQ,B.bL,q,s,s),s,B.a7),s,s,s,s)}}
