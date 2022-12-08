@@ -83959,9 +83959,9 @@ p=s*0.15
 h=i.b=r*0.03
 i.a=r*0.04}o=s*0.92
 n=t.p
-m=A.aI(j,A.j7(B.bg,A.a([A.i0(j,A.fr(A.mY(j,A.a8m(s*0.2,new A.hE("tromb_logo_magenta_dye.png")),B.aH,!1,j,j,j,j,j,j,j,j,j,j,new A.amT(a),j,j,j,j,j,j),B.bJ,j,j,j,j),j,j,50,j,50,j),A.i0(j,A.bY("Volume",j,j,j,A.c2(j,j,B.i,j,j,j,j,j,j,j,j,h,j,j,B.aI,j,j,!0,j,j,j,j,j,j,j,j),j,j),j,j,50,j,s/3.2,j),A.i0(j,A.aDf(new A.amU(k),k.e,t.i),j,j,25,j,s/3,j)],n),B.Y,B.bs),j,j,j,j,j,j,Math.abs(r/2-o/2.5))
+m=A.aI(j,A.j7(B.bg,A.a([A.i0(j,A.fr(A.mY(j,A.a8m(s*0.2,new A.hE("assets/tromb_logo_magenta_dye.png")),B.aH,!1,j,j,j,j,j,j,j,j,j,j,new A.amT(a),j,j,j,j,j,j),B.bJ,j,j,j,j),j,j,50,j,50,j),A.i0(j,A.bY("Volume",j,j,j,A.c2(j,j,B.i,j,j,j,j,j,j,j,j,h,j,j,B.aI,j,j,!0,j,j,j,j,j,j,j,j),j,j),j,j,50,j,s/3.2,j),A.i0(j,A.aDf(new A.amU(k),k.e,t.i),j,j,25,j,s/3,j)],n),B.Y,B.bs),j,j,j,j,j,j,Math.abs(r/2-o/2.5))
 l=A.j7(B.bg,A.a([m,A.aI(B.H,A.dW(A.a([A.cW(A.aAP(f,t.VN),o,o/2)],n),B.y,B.dN,B.B),j,j,j,j,j,j,j)],n),B.Y,B.bs)
-n=A.a2G(B.eu,new A.hE("trombtrisbackground.png"))
+n=A.a2G(B.eu,new A.hE("assets/trombtrisbackground.png"))
 return A.N_(A.aI(j,A.Ck(j,B.x,A.zE(!1,j,!k.f?l:new A.amX(k,a,m,new A.amV(i,new A.amW(i,new A.amS(i,g)))).$7(i.c,p,"Start New Game",q,B.cD,new A.z(4293605781),a),j,j,j)),j,j,new A.ca(j,n,j,j,j,j,j,B.R),j,j,j,j),j,"Trombtris")}}
 A.an_.prototype={
 $0(){var s,r,q=this.a
@@ -84582,9 +84582,9 @@ o=f*0.6}g=f*0.015
 n=t.p
 m=A.aI(B.H,A.dW(A.a([A.cW(A.bY(h,i,i,i,A.c2(i,i,B.i,i,i,i,i,i,i,i,i,e*0.07,i,i,B.aJ,i,i,!0,i,i,i,i,i,i,i,i),B.co,i),o,p),A.cW(i,f*0.01,i),j.qQ(r,q,"Single Player",s,B.cD,B.nQ,a,B.DE,!1),A.cW(i,g,i),j.qQ(r,q,"VS - Multiplayer",s,B.cD,B.nQ,a,B.IH,!1),A.cW(i,f*0.13,i)],n),B.y,B.dN,B.B),i,i,i,i,i,i,i)
 e=A.ajg(i,"Galano Grotesque",i)
-l=A.a2G(B.eu,new A.hE("trombtrisbackground.png"))
+l=A.a2G(B.eu,new A.hE("assets/trombtrisbackground.png"))
 k=r/1.5
-return A.N_(A.aI(i,A.Ck(i,B.x,A.j7(B.bg,A.a([A.i0(i,A.fr(A.mY(i,A.a8m(f*0.2,new A.hE("tromb_logo_magenta_dye.png")),B.aH,!1,i,i,i,i,i,i,i,i,i,i,new A.ahW(a),i,i,i,i,i,i),B.bJ,i,i,i,i),i,i,50,i,50,i),m,A.i0(i,A.dW(A.a([j.qQ(k,q,"Profile",s,B.bl,B.bl,a,new A.Aw(i),!0),A.cW(i,g,i),j.qQ(k,q,"Leaderboard",s,B.bl,B.bl,a,new A.Ak(i),!0),A.cW(i,g,i),j.qQ(k,q,"Change keybinds",s,B.bl,B.bl,a,new A.yP(A.a([],t.gz),i),!1)],n),B.y,B.a8,B.B),i,i,i,50,50,i)],n),B.Y,B.bs)),i,i,new A.ca(i,l,i,i,i,i,i,B.R),i,i,i,i),e,h)},
+return A.N_(A.aI(i,A.Ck(i,B.x,A.j7(B.bg,A.a([A.i0(i,A.fr(A.mY(i,A.a8m(f*0.2,new A.hE("assets/tromb_logo_magenta_dye.png")),B.aH,!1,i,i,i,i,i,i,i,i,i,i,new A.ahW(a),i,i,i,i,i,i),B.bJ,i,i,i,i),i,i,50,i,50,i),m,A.i0(i,A.dW(A.a([j.qQ(k,q,"Profile",s,B.bl,B.bl,a,new A.Aw(i),!0),A.cW(i,g,i),j.qQ(k,q,"Leaderboard",s,B.bl,B.bl,a,new A.Ak(i),!0),A.cW(i,g,i),j.qQ(k,q,"Change keybinds",s,B.bl,B.bl,a,new A.yP(A.a([],t.gz),i),!1)],n),B.y,B.a8,B.B),i,i,i,50,50,i)],n),B.Y,B.bs)),i,i,new A.ca(i,l,i,i,i,i,i,B.R),i,i,i,i),e,h)},
 qQ(a,b,c,d,e,f,g,h,i){var s=null,r=A.hd(5),q=A.a([f,e],t._),p=t.h9
 p=A.iu(s,s,new A.bp(e,p),new A.bp(10,t.Ve),s,s,s,s,s,s,s,s,s,s,new A.bp(e,p),s,s,s,s,s,s,s)
 return A.aI(s,A.cW(A.pi(A.bY(c,s,s,s,A.c2(s,s,B.i,s,s,s,s,s,s,s,s,d,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.ahZ(this,i,h,g),p),b,a),s,s,new A.ca(s,s,s,r,s,new A.hQ(B.as,B.bZ,B.b4,q,s,s),s,B.R),s,s,s,s)}}

@@ -3,15 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1d02a58647fa19d48a09c6c9b86f39ed",
+  "assets/AssetManifest.json": "afb5a15ce8829385b0e286b262baa774",
 "assets/assets/blockPlace.mp3": "8459b2064a06fc4156a6c985599bf64f",
 "assets/assets/hardDrop.wav": "5851fb3a6e94a950876d1bc1804f2973",
+"assets/assets/lineClear.wav": "4df4635ee796e69379f6ea7cb19a20a1",
 "assets/assets/Tetris.mp3": "4ae866dc425a9904e84252322ec8413b",
 "assets/assets/trombBlock.wav": "5d46c5b83761cf970da7c0b6529f41b5",
 "assets/assets/trombtrisbackground.png": "3fdaeb4254ddf0401be04472044d52db",
 "assets/assets/tromb_logo_magenta_dye.png": "5786ae74d9a957ab10aca0b8122a30ca",
 "assets/FontManifest.json": "2f38919b26e89a2b937ca3a13fcfd5a8",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/lib/game/assets/blockTypeDefs/defaultBlocks.txt": "2425c11e4fed2da521f7b0aa72420384",
 "assets/lib/game/assets/blockTypeDefs/oopsAllTrombBlocks.txt": "ad4fffe4d4efcca9ffd35d6218acfb08",
 "assets/lib/game/assets/Galano%2520Grotesque/Rene%2520Bieder%2520-%2520Galano%2520Grotesque%2520Bold%2520Italic.otf": "58d6d0f239ad68ffea99f6806192525f",
 "assets/lib/game/assets/Galano%2520Grotesque/Rene%2520Bieder%2520-%2520Galano%2520Grotesque%2520Bold.otf": "6d10397a151d83e4407fecd27f76cafb",
@@ -51,9 +53,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "12e808161e2c678d09fe70bfc04ccb64",
-"/": "12e808161e2c678d09fe70bfc04ccb64",
-"main.dart.js": "61923d006ccae0ad3af8d598262a7f1d",
+"index.html": "b313a3d1bace692a2130e1690f7e6795",
+"/": "b313a3d1bace692a2130e1690f7e6795",
+"main.dart.js": "20908907e59959dfc986b61b6bbf407c",
 "manifest.json": "0d03a559b264393f0fcbe319a09d124e",
 "version.json": "5e8088e9f864a3bb92ffda25372adca7"
 };
