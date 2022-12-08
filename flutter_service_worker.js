@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1d02a58647fa19d48a09c6c9b86f39ed",
+  "assets/AssetManifest.json": "abac1b7f993f2949bb31abaf0d7fff91",
 "assets/assets/blockPlace.mp3": "8459b2064a06fc4156a6c985599bf64f",
 "assets/assets/hardDrop.wav": "5851fb3a6e94a950876d1bc1804f2973",
-"assets/assets/LineClear.wav": "4df4635ee796e69379f6ea7cb19a20a1",
+"assets/assets/lineClear.wav": "4df4635ee796e69379f6ea7cb19a20a1",
 "assets/assets/Tetris.mp3": "4ae866dc425a9904e84252322ec8413b",
 "assets/assets/trombBlock.wav": "5d46c5b83761cf970da7c0b6529f41b5",
 "assets/assets/trombtrisbackground.png": "3fdaeb4254ddf0401be04472044d52db",
@@ -53,8 +53,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "abcacfeef9a8fd75c4343027e932367d",
-"/": "abcacfeef9a8fd75c4343027e932367d",
+"index.html": "adec4be3a0bb3638586e2c73a3a71736",
+"/": "adec4be3a0bb3638586e2c73a3a71736",
 "main.dart.js": "662038d8825a187cdbe3fdd55be16ccf",
 "manifest.json": "0d03a559b264393f0fcbe319a09d124e",
 "version.json": "5e8088e9f864a3bb92ffda25372adca7"
